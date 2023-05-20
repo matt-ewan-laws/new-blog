@@ -2,98 +2,126 @@
 - category: User Experience
   note: Enables users to access information according to their preferences
   tags: user experience, information access
+
 - category: User Experience
   note: Allows less skilled authors to effectively convey knowledge and ideas
   tags: user experience, authoring, knowledge transfer
+
 - category: User Experience
   note: Facilitates interactive conversations between users and articles
   tags: user experience, interactivity, conversations
+
 - category: User Experience
   note: Can be intelligent and tailored for diverse target audiences
   tags: user experience, intelligence, target audiences
+
 - category: User Experience
   note: Supports comprehensive articles or linked content for extensive information
   tags: user experience, comprehensive articles, linked content, information
+
 - category: User Experience
   note: Capable of conversing in multiple languages
   tags: user experience, multilingual, language capabilities
+
 - category: Limitations
   note: Does not involve creative writing, limiting the use of professional writing
     skills
   tags: limitations, creative writing, professional writing skills
+
 - category: Limitations
   note: May produce average quality writing
   tags: limitations, writing quality
+
 - category: Limitations
   note: Reduces author's control over narrative and structure
   tags: limitations, author control, narrative, structure
+
 - category: Limitations
   note: Possible generation of hallucinations or inaccuracies
   tags: limitations, generation, hallucinations, inaccuracies
+
 - category: Limitations
   note: Lacks established standards, requiring the creation of tools from scratch
   tags: limitations, standards, tool creation
+
 - category: Limitations
   note: Hallucination - Prompt engineering needed to prevent output from going off
     track
   tags: limitations, hallucination, prompt engineering
+
 - category: Limitations
   note: May pose challenges with different authoring structures for each article
   tags: limitations, authoring structures, challenges
+
 - category: Limitations
   note: Could be expensive; consider exploring free and open-source alternatives
   tags: limitations, cost, open-source alternatives
+
 - category: Implementation
   note: In the meantime, a chat interface could be developed using precomputed text
     prompts
   tags: implementation, chat interface, precomputed text prompts
+
 - category: Implementation
   note: Include an overview in the main prompt for improved clarity
   tags: implementation, overview, clarity
+
 - category: Implementation
   note: Build a collection of arguments, ideas, etc., with generated embeddings for
     contextual relevance using cosine similarity
-  tags: implementation, arguments, ideas, embeddings, contextual relevance, cosine
-    similarity
+  tags: implementation, arguments, ideas, embeddings, contextual relevance, cosine similarity
+
 - category: Implementation
   note: Create a network of connected notes based on similarity threshold
   tags: implementation, connected notes, similarity threshold
+
 - category: Implementation
   note: Prioritize unexplored parts for presentation
   tags: implementation, prioritization, unexplored parts, presentation
+
 - category: Implementation
   note: Consider including external links for additional information
   tags: implementation, external links, additional information
+
 - category: Suggested
   note: Utilize YAML for article authoring
   tags: suggested, YAML, article authoring
+
 - category: Suggested
   note: Embrace innovative thinking beyond conventional article structures
   tags: suggested, innovative thinking, article structures
+
 - category: Suggested
   note: Focus on effective communication of a stream of thoughts and ideas
   tags: suggested, effective communication, thoughts, ideas
+
 - category: Suggested
   note: Leverage graph-based representation for thoughts and ideas, despite implementation
     complexity
   tags: suggested, graph-based representation, thoughts, ideas, implementation complexity
+
 - category: Suggested
   note: Consider whether to present discrete articles or adopt a knowledge-based approach
   tags: suggested, discrete articles, knowledge-based approach
+
 - category: Suggested
   note: Display original text used to generate information
   tags: suggested, original text, information generation
+
 - category: Suggested
   note: Provide suggested prompts based on embeddings to guide users
   tags: suggested, suggested prompts, embeddings, user guidance
+
 - category: Suggested
   note: Allow users to leave comments if requested information is missing in articles
     or knowledge base
   tags: suggested, user comments, missing information, knowledge base
+
 - category: Suggested
   note: Establish connections between articles by selecting related thoughts, ideas,
     arguments, and knowledge under specific topics for easy navigation
   tags: suggested, article connections, thoughts, ideas, arguments, knowledge, navigation
+
 - category: Monetization
   note: Explore monetization options such as offering in-depth content behind paywalls,
     intelligent advertising, and intelligent affiliate marketing
